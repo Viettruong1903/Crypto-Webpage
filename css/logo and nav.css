@@ -1,0 +1,12 @@
+.nav-button {
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-project {
+  background-color: green;
+}
+
+.about-project {
+  background-color: blue;
+}
