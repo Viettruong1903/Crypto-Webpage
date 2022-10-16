@@ -1,0 +1,51 @@
+
+
+nav {
+  display: flex;
+  background-color: white;
+}
+
+.logo-box {
+  width: 400px;
+  
+  
+}
+
+.logo {
+  width: 50px;
+  margin-left: 300px;
+  margin-top: 25px;
+  cursor: pointer;
+  
+}
+
+.nav-bars {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav_links {
+  
+  color: white;
+  margin-left: 100px;
+  cursor: pointer;
+}
+
+button {
+  color: white;
+  margin-left: 100px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 3px;
+  padding: 5px 10px;
+  cursor: pointer;
+
+}
+
+button:hover {
+  transition: 0.3s;
+  opacity: 0.8;
+}
