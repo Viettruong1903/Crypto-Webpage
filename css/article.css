@@ -1,0 +1,45 @@
+.article-text {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(250, 250, 250);
+  padding: 20px;
+  margin-top: 150px;
+  justify-content: center;
+  align-items: center;
+  max-width: 1032px;
+  margin-left: 123px;
+  
+  
+}
+
+.h1-article {
+  color: black;
+  background-color:rgb(250, 250, 250);
+  font-size: 28px;
+  font-weight: 700;
+  
+}
+
+.p-article {
+  color: rgb(99, 99, 99);
+  background-color: rgb(250, 250, 250);
+  margin-top: 20px;
+  text-align: center;
+}
+
+.button-article {
+  text-decoration: none;
+  margin-left: 100px;
+  margin-right: 90px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  padding: 15px;
+  color:  rgb(250, 250, 250);
+  
+}
+
+.button-article:hover {
+  transition: 0.8s;
+  opacity: 0.9;
+}
