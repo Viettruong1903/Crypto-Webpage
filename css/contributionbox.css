@@ -1,0 +1,79 @@
+.contribution-box {
+  display: flex;
+  background-color: rgb(250, 250, 250);
+  margin-top: 550px;
+  max-width: 1032px;
+  margin-left: 400px;
+}
+
+.contribution-info {
+  display: flex;
+  flex-direction: column;
+  flex: 516px;
+  background-color: rgb(250, 250, 250);
+  
+}
+
+.h1-contribution {
+  color: black;
+  font-size: 28px;
+  font-weight: 700;
+  background-color: rgb(250, 250, 250);
+  margin-left: 50px;
+  margin-top: 150px;
+}
+
+.p-contribution {
+  color: rgb(99, 99 , 99);
+  background-color: rgb(250, 250, 250);
+  font-size: 20px;
+  margin-top: 25px;
+  margin-left: 50px;
+}
+
+.button-contribution-box {
+  margin-top: 40px;
+  background-color: rgb(250, 250, 250);
+}
+
+.button1-contribution {
+  background-color: rgb(28, 28, 255);
+  color: rgb(250, 250, 250);
+  padding: 10px;
+  margin-left: 50px;
+  align-items: center;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+.button1-contribution:hover {
+  transition: 0.9s;
+  opacity: 0.9;
+}
+
+.button2-contribution {
+  background-color: rgb(250, 250, 250);
+  color: rgb(51, 51, 51);
+  border-color: rgb(51, 51, 51);
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  padding: 10px 20px;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.button2-contribution:hover {
+  transition: 0.9s;
+  opacity: 0.9;
+}
+
+.image-contribution-box {
+  flex: 516px;
+  background-color: rgb(250, 250, 250);
+}
+
+.image-contribution{
+  background-color: rgb(250, 250, 250);
+  height: 500px;
+}
